@@ -1,4 +1,4 @@
-# diary
+# murmur
 
 A little mood journal for my Mac. Each day I pick a face (faces I drew myself), write a bit, and stick photos, videos, voice memos or doodles on the page. Everything stays on my laptop.
 
